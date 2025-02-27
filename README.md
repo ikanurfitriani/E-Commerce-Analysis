@@ -74,11 +74,13 @@ E-Commerce-Analysis/
    ```
 
 ## Screen Capture
-The following is a screen capture from the E-Commerce Analysis dashboard:
-- `SS` <br>
-<img src="SS/SS1.png" alt="SS" width="160"><img src="SS/SS2.png" alt="SS" width="177"><br>
-<img src="SS/SS3.png" alt="SS" width="150"><img src="SS/SS4.png" alt="SS" width="210"><br>
-<img src="SS/SS5.png" alt="SS" width="180"><img src="SS/SS6.png" alt="SS" width="192">
+The following is a screen capture from the E-Commerce Analysis dashboard: <br>
+<img src="SS/SS1.png" alt="SS" width="800"><br>
+<img src="SS/SS2.png" alt="SS" width="800"><br>
+<img src="SS/SS3.png" alt="SS" width="800"><br>
+<img src="SS/SS4.png" alt="SS" width="800"><br>
+<img src="SS/SS5.png" alt="SS" width="800"><br>
+<img src="SS/SS6.png" alt="SS" width="800">
 
 ## Author
 [@Ika Nurfitriani](https://github.com/ikanurfitriani)
