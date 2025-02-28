@@ -377,7 +377,7 @@ with tabs[3]:
     st.write("Analisis Pelanggan")
 
     # Pertanyaan 4a:
-    st.subheader("a. Distribusi umur pelanggan yang melakukan transaksi")
+    st.subheader("a. Distribusi tahun transaksi pelanggan")
     cust_orders = data['customers'].merge(data['orders'], on='customer_id')
     cust_orders['order_purchase_timestamp'] = pd.to_datetime(cust_orders['order_purchase_timestamp'])
     cust_orders['year'] = cust_orders['order_purchase_timestamp'].dt.year
